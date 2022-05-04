@@ -1,0 +1,11 @@
+# CRCNS.org 'ch-epfl-2009' dataset files
+# To use this for fetching files, comment out files that are
+# not needed by putting a '#' as the first character on the line (default mode)
+# or put a '+' as the first character to specifiy files to be fetched (+ mode).
+# mode='default' (change to '+' for + mode).
+ crcns-ch-epfl-2009-challengeA.zip	14467346 (13.7 MB)
+ crcns-ch-epfl-2009-challengeB.zip	10797659 (10.2 MB)
+ crcns-ch-epfl-2009-challengeC.zip	25726572 (24.5 MB)
+ crcns-ch-epfl-2009-challengeD.zip	130011 (126.9 KB)
+ crcns-ch-epfl-2009-instructions.pdf	280405 (273.8 KB)
+ checksums.md5	389
